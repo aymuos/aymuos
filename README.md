@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, my name is Soumya
 
-<!--
-**aymuos/aymuos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1.5+ years of experience in designing and developing scalable and highly available cloud applications using Java stack.  I am always open in working with new tech stack. Following are my current tech stack.
 
-Here are some ideas to get you started:
+Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: Java, Spring MVC, Spring Reactive, Spring Boot, Hibernate, Restful Services, Microservices , Node JS 
+- Frontend: JavaScript , TypeScript , ReactJS
+- Database: CockroachDB, MySQL , DB2
+- Build tools: Maven, Gradle, Gulp , WebPack 
+- Servers: Tomcat , Netty
+- Cloud: Google Cloud Platform , Azure
+- CI /CD : Jenkins,Spinnaker
+- Version Control: Git
+- IDE: Intellij IDEA, VS Code, Eclipse, WebStorm
+- Operating System: Linux, Windows
+- Project Management:Scrum
+-Themes : VSCode - Black , IntelliJ and Webstorm - Material Dark, Dracula
+
+Soft Skills:
+
+- Problem Solving, TeamWork, Communication , Mentoring 
+
+![Aymuos's github stats](https://github-readme-stats.vercel.app/api?username=aymuos&show_icons=true&theme=onedark)
