@@ -10,7 +10,7 @@ Tech Stack:
 - Build tools: Maven, Gradle, Gulp , WebPack 
 - Servers: Tomcat , Netty
 - Cloud: Google Cloud Platform , Azure
-- CI /CD : Jenkins,Spinnaker
+- CI /CD : Jenkins,Spinnaker,Terraform
 - Version Control: Git
 - IDE: Intellij IDEA, VS Code, Eclipse, WebStorm
 - Operating System: Linux, Windows
