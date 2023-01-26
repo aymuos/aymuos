@@ -4,7 +4,7 @@
 
 Tech Stack:
 
-- Backend: Java, Spring MVC, Spring Reactive, Spring Boot, Hibernate, Restful Services, Microservices , Node JS 
+- Backend: Java, Spring MVC, Spring Reactive, Spring Boot, Hibernate, Restful Services, Microservices , Node JS , Learning Quarkus
 - Frontend: JavaScript , TypeScript , ReactJS
 - Database: CockroachDB, MySQL , DB2
 - Build tools: Maven, Gradle, Gulp , WebPack 
