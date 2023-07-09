@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Soumya
 
-1.5+ years of experience in designing and developing scalable and highly available cloud applications using Java stack.  I am always open in working with new tech stack. Following are my current tech stack.
+About 2 years of experience in designing and developing scalable and highly available cloud applications using Java stack.  I am always open in working with new tech stack. Following are my current tech stack.
 
 Tech Stack:
 
