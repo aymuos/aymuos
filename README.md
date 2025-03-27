@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Soumya
 
+GenAI Developer and Masters Student in Industrial AI at IIT Madras
+
 About 3.5 years of experience in designing and developing scalable and highly available cloud applications.  I am always open in working with new tech stack. Currently working in Generative AI application development . Following are my current tech stack.
 
 Tech Stack:
