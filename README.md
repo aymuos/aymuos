@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Soumya
 
-GenAI Developer and Masters Student in Industrial AI at IIT Madras
+ML engineer and Masters Student in Industrial AI at IIT Madras
 
-About 3.5 years of experience in designing and developing scalable and highly available cloud applications.  I am always open in working with new tech stack. Currently working in Generative AI application development . Following are my current tech stack.
-
+About 4.5 years of experience in designing and developing scalable and highly available cloud applications.  I am always open in working with new tech stack. Currently working in Generative AI application development . Following are my current tech stack.
+TLDR : I have moved to ML now , but I work mostly in backend . Beyond that whereever support is needed , i can contribute . Almost a jack of all trades , and trying to be master of one .
 Tech Stack:
 
 - Backend: Python , Java, Spring MVC, Spring Reactive, Spring Boot, Hibernate, Restful Services, Microservices , Node JS , Learning Quarkus
